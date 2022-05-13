@@ -1,0 +1,29 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "finalevolution:block/receiver_plug",
+      "x": 90
+    },
+    "facing=south": {
+      "model": "finalevolution:block/receiver_plug",
+      "x": 270
+    },
+    "facing=east": {
+      "model": "finalevolution:block/receiver_plug",
+      "y": 90,
+      "x": 90
+    },
+    "facing=west": {
+      "model": "finalevolution:block/receiver_plug",
+      "y": 270,
+      "x": 90
+    },
+    "facing=down": {
+      "model": "finalevolution:block/receiver_plug",
+      "x": 180
+    },
+    "facing=up": {
+      "model": "finalevolution:block/receiver_plug"
+    }
+  }
+}

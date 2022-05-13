@@ -1,0 +1,19 @@
+{
+  "advancements.finalevolution.root": "Final Evolution",
+
+  "keybind.finalevolution.category": "Final Evolution",
+  "keybind.finalevolution.description": "Show Description",
+
+  "itemGroup.finalevolutiontab": "Final Evolution",
+
+  "block.finalevolution.dimensional_energy_storage": "Dimensional Energy Storage",
+  "block.finalevolution.transmitter_plug": "Transmitter Plug",
+  "block.finalevolution.receiver_plug": "Receiver Plug",
+  "block.finalevolution.ender_torch": "Ender Torch",
+
+  "item.finalevolution.tooltip.dimensional_energy_storage": "§7Stores energy across dimensions.",
+  "item.finalevolution.tooltip.transmitter_plug": "§7Transmits RF across dimensions to energy storage units.",
+  "item.finalevolution.tooltip.receiver_plug": "§7Receives RF across dimensions from energy storage units.",
+  "item.finalevolution.tooltip.show_desc": "§b[§7%s§b] §7For Description",
+  "item.finalevolution.tooltip.disabled": "§cThis item is disabled in config"
+}
